@@ -1,2 +1,2 @@
-# Redbus-Data-Scraping-with-Selenium-Dynamic-Filtering-using-Streamlit-1
-Web Scraping using Selenium, Python, Streamlit , SQL 
+# Project-Redbus
+Redbus Data Scraping with Selenium &amp; Dynamic Filtering using Streamlit
